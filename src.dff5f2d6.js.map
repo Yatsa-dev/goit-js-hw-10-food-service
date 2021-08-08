@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["a","document","querySelector","console","log"],"mappings":";AAEA,MAAMA,EAAIC,SAASC,cAAc,0BACjCC,QAAQC,IAAIJ","file":"src.dff5f2d6.js","sourceRoot":"../src","sourcesContent":["'use srticts'\n\nconst a = document.querySelector('.theme-switch__control')\nconsole.log(a)"]}
